@@ -53,5 +53,7 @@ Written for WordPress Version 6.0
   - Filter by Post Type: Program
   - Show IF POST TYPE == Event
   - Show IF POST TYPE == Professor
+  
+Finally, in the settings tab on the WordPress Admin Dashboard, select *Reading* and set the *You homepage displays* setting to *A static page*. Select, **Home** for the *Homepage* and **Blog** for the *Posts page*
 
 
