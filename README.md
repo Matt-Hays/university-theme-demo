@@ -6,7 +6,7 @@ Written for WordPress Version 6.0
 
 - [Advanced Custom Fields](https://www.advancedcustomfields.com/)
 
-- [Manual Image Crop](https://github.com/tomaszsita/wp-manual-image-crop) *optional*
+- [Manual Image Crop](https://github.com/tomaszsita/wp-manual-image-crop) *(optional)*
 
 - [Members](https://members-plugin.com/)
 
