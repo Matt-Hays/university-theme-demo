@@ -1,0 +1,20 @@
+{
+  "name": "distorted",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start",
+    "dev": "wp-scripts start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@glidejs/glide": "^3.5.2",
+    "@wordpress/scripts": "^24.2.0",
+    "axios": "^0.27.2",
+    "normalize.css": "^8.0.1"
+  }
+}
