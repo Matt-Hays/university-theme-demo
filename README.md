@@ -1,4 +1,5 @@
 # WordPress Theme Demo
+*This is an educational tutorial code-along from a Udemy Wordpress course taught by Brad Schiff.*
 
 Written for WordPress Version 6.0
 
